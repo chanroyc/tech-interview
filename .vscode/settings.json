@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.jsx": "javascriptreact",
+    "*.svg": "xml"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
